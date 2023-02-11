@@ -1,7 +1,11 @@
- # TouchDesigner Learning Repository
+# TouchDesigner Learning Repository
+
+## Latest Progress
+![](./Gifs/vhs_animation_2.gif)
+
+## Description
 Welcome to the TouchDesigner Learning Repository! This repository is a catch-all for tutorials, workshops, and general TouchDesigner learnings. The goal of this repository is to provide a space for testing a collaborative Git workflow and to document and share new things learned about TouchDesigner.
 
-## Purpose
 This repository serves two main purposes:
 
 1. Testing a collaborative Git workflow for TouchDesigner
